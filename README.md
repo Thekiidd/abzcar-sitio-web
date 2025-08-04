@@ -102,13 +102,7 @@ abzcar/
 
 ### Panel de Administración
 
-- **Acceso**: http://localhost/abzcar/admin/
-- **Funcionalidades**:
-  - Gestionar Servicios
-  - Gestionar Testimonios
-  - Gestionar Proyectos
-  - Gestionar FAQs
-  - Ver Contactos Recibidos
+**PROXIMAMENTE.......**
 
 ## Base de Datos
 
