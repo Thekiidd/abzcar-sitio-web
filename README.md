@@ -129,10 +129,6 @@ abzcar/
 - Editar `assets/css/style.css` para modificar la apariencia
 - El diseño es responsive y se adapta a diferentes dispositivos
 
-### Contenido
-- Usar el panel de administración para gestionar contenido dinámico
-- Los cambios se reflejan automáticamente en el sitio web
-
 ## Despliegue en Hostinger
 
 1. **Subir archivos** via FTP al directorio público
@@ -160,9 +156,8 @@ Si deseas contribuir a este proyecto:
 Este proyecto fue desarrollado específicamente para ABZCAR.
 
 ## Autor
-
+Luis Manuel Batista Bustillos
 Desarrollado para ABZCAR - Servicios de Mecánica Automotriz y Grúas.
 
 ---
 
-⭐ Si este proyecto te ha sido útil, ¡dale una estrella al repositorio! 
